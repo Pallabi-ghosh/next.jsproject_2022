@@ -15,7 +15,7 @@ const LogIn = () => {
     return (
       <div>
         {/* <p>you are signed in</p> */}
-        <label className="block text-gray-700 text-sm font-bold mb-2" 
+        <label className="border border-grey-200 rounded-full p-3 m-1" 
           onClick={() => signIn()}
           
         >

@@ -61,12 +61,12 @@ class Home extends React.Component {
                 </a>
               </p>
               <div className="flex justify-center my-2">
-                <a
+                {/* <a
                   href="#"
                   className="border border-grey-200 rounded-full p-3 m-1"
                 >
                   <FaFacebookF className="text-sm" />
-                </a>
+                </a> */}
                 <a
                   href="#"
                 >
