@@ -13,9 +13,9 @@ const LogIn = () => {
     );
   } else {
     return (
-      <div>
+      <div className="border border-grey-200 rounded-full p-3 m-1">
         {/* <p>you are signed in</p> */}
-        <label className="border border-grey-200 rounded-full p-3 m-1" 
+        <label className=" text-center" 
           onClick={() => signIn()}
           
         >
