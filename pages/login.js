@@ -15,12 +15,12 @@ const LogIn = () => {
     return (
       <div>
         {/* <p>you are signed in</p> */}
-        <button
+        <label class="block text-gray-700 text-sm font-bold mb-2" for="username"
           onClick={() => signIn()}
-          className="bg-blue-500 hover:bg-blue-700 text-black border border-grey-200 font-bold py-2 px-4 rounded-full"
+          
         >
           <FaGoogle />
-        </button>
+        </label>
       </div>
     );
   }
