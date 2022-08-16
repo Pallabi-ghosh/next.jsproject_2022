@@ -1,3 +1,16 @@
+## NextJS project
+
+Please click ⭐ if you like the project. Pull request are highly appreciated ❤️.
+
+### [Live Here](https://eclectic-cat-46faf2.netlify.app/)
+
+
+![nextapp copy](https://user-images.githubusercontent.com/61879499/184814554-c3c99611-1a12-4443-b8dd-525e1070bf56.png)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
